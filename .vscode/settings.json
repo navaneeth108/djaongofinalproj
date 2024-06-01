@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1a37623b-abc0-4dc5-94d0-fa07f1bbfe2f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/djagoproject",
+    "appService.deploySubpath": "."
+}
